@@ -1,1 +1,11 @@
-/* Write your CSS here! */
+body{
+    background-color:#BF7070;
+    text-align: center;
+    font-size: 30px;
+}
+img{
+    border-radius: 10%;
+    width: 50%;
+    height: 50%;
+    background-size: cover;
+}
